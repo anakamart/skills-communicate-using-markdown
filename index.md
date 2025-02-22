@@ -7,3 +7,8 @@
 ``` javascript
 var text = "Hello world!";
 ```
+
+#### Task list Example
+- [x] Added a Header
+- [x] Added an Image
+- [ ] Uncompleted Task
