@@ -2,3 +2,8 @@
 
 ## Image of Surftocat
 ![Image of Surftocat](https://octodex.github.com/images/surftocat.png)
+
+### Code Block Example
+``` javascript
+var text = "Hello world!";
+```
